@@ -25,6 +25,11 @@ class Song
   def self.artists 
     @@artists
   end
+  
+  def self.genre_count 
+    hash ={}
+    
+  end
 end
 
 
