@@ -4,6 +4,7 @@ class Song
   
   
   @@count = 0
+  @@genres =[]
   
   def new(name,artist,genre) 
     @name, @artist, @genre = name, artist, genre
