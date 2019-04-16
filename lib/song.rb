@@ -35,10 +35,10 @@ class Song
   end
   
     def self.artist_count 
-    genre_count = Hash.new
-    @@genres.each do |genre_count|
-      genre_count[genre] +=1
-      genre_count
+    artist_count = Hash.new
+    @@genres.each do |artist_count|
+      artist_count[genre] +=1
+      artist_count
     end
   end
 end
