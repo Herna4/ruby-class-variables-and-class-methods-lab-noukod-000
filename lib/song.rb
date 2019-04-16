@@ -19,5 +19,5 @@ ninety_nine_problems.artist
 
  
 ninety_nine_problems.genre
-  # => "rap"
+
 
